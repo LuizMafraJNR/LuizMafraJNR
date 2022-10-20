@@ -16,7 +16,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LuizMafraJNR&show_icons=true&theme=vision-friendly-dark" alt="LuizMafraJNR's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMafraJNR&layout=compact&theme=vision-friendly-dark" alt="LuizMafraJNR's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LuizMafraJNR&show_icons=true&theme=vision-friendly-dark" alt="Meus status"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMafraJNR&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais utilizadas por mim"/>
 </p>
 -->
