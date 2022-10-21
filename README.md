@@ -1,4 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luiz Mafra</h1>
+<p>Olá, tudo bem? meu nome é Luiz, mas podem me chamar de Mafra!</p>
+<p>Atualmente eu estou estudando para me tornar um futuro programador web em java, mais precisamente no backend</p>
+<p>Segue meu website para visualizar: <a href="luizmafrajnr.com.br">luizmafrajnr.com.br</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizMafraJNR&color=yellow" alt="Profile views" /> </p>
 
 ## 🛠 &nbsp;Tech Stack
